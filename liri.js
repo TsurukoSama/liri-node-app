@@ -35,3 +35,5 @@ function bandsInTown(query){
         console.log(jsonData);
     })
 }
+
+console.log(userInputs)
